@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  description: "Instructor Updates for EDCI336"
+  site-url: https://cmadland.github.io/edci336 # you must change this appropriately for RSS feeds to work properly
+  title: "Technology and Innovation in Education"
+  navbar:
+    right:
+      - icon: house-door-fill
+        href: https://edtechuvic.ca/edci336
+      # - icon: info-circle-fill
+      #   href: about.qmd
+      - icon: github
+        href: https://github.com/cmadland/edci336
+      - icon: rss
+        href: index.xml
+  search: true
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
