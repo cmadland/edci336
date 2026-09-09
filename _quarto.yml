@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  description: "Instructor Updates for EDCI336"
   site-url: https://cmadland.github.io/edci336 # you must change this appropriately for RSS feeds to work properly
+  description: "Instructor Updates for EDCI336"
   title: "Colin's Updates - EDCI 336"
   navbar:
     right:
