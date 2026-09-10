@@ -13,4 +13,3 @@ title-block-banner: true
 ---
 
 
-This is some content
