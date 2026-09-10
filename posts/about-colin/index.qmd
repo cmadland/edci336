@@ -1,20 +1,8 @@
 ---
 title: "About Colin"
-image: colin.jpg
-about:
-  template: trestles
-  image: colin.jpg
-  links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/profile/cmad.land
-    - icon: github
-      text: Github
-      href: https://github.com/cmadland
-    - icon: calendar
-      text: Book a meeting
-      href: https://outlook.office.com/bookwithme/user/7d1834622e834a5c9cbcb42b02feabae@uvic.ca/meetingtype/9DgK2fwXJEGRbGOg9j2WRg2?anonymous&ismsaljsauthenabled&ep=mlink
-echo: false
+image: "colin.jpg"
+date: "2026-09-10"
+categories: [edci336]
 ---
 
 Hi everyone, I'm excited to be teaching EDCI 336 and I'm looking forward to getting to know each of you!

@@ -10,11 +10,16 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 10 Sep 2026 23:44:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 07:00:00 GMT</lastBuildDate>
 <item>
   <title>About Colin</title>
   <link>https://cmadland.github.io/edci336/posts/about-colin/</link>
   <description><![CDATA[ 
+
+
+
+
+
 <p>Hi everyone, I’m excited to be teaching EDCI 336 and I’m looking forward to getting to know each of you!</p>
 <p>I am a PhD Candidate in Educational Studies at UVic researching technology-integrated assessment in higher education. My work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. I am currently analyzing data for the third of three papers comprising my dissertation.</p>
 <p>I taught educational technology in K-12 in BC, Alberta, and Japan between 2000 and 2010 and led technology-integrated teams in instructional design in higher ed and have taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. I was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where I supported faculty and learners in using technology to make sense of the world around them.</p>
@@ -22,9 +27,11 @@
 <p>Contact and further info at <a href="https://cmad.land">cmad.land</a>.</p>
 
 
+
  ]]></description>
+  <category>edci336</category>
   <guid>https://cmadland.github.io/edci336/posts/about-colin/</guid>
-  <pubDate>Thu, 10 Sep 2026 23:44:42 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
   <media:content url="https://cmadland.github.io/edci336/posts/about-colin/colin.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
