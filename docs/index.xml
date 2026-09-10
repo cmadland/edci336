@@ -10,29 +10,7 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 16 Aug 2026 07:00:00 GMT</lastBuildDate>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://cmadland.github.io/edci336/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://cmadland.github.io/edci336/posts/post-with-code/</guid>
-  <pubDate>Sun, 16 Aug 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://cmadland.github.io/edci336/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Thu, 10 Sep 2026 23:41:02 GMT</lastBuildDate>
 <item>
   <title>About Colin</title>
   <link>https://cmadland.github.io/edci336/posts/about-colin/</link>
@@ -46,7 +24,7 @@
 
  ]]></description>
   <guid>https://cmadland.github.io/edci336/posts/about-colin/</guid>
-  <pubDate>Thu, 10 Sep 2026 23:33:47 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 23:41:02 GMT</pubDate>
   <media:content url="https://cmadland.github.io/edci336/posts/about-colin/colin.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
