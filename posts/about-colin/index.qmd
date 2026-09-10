@@ -1,0 +1,27 @@
+---
+title: "Colin Madland, PhD(c)"
+about:
+  template: trestles
+  image: colin.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/cmad.land
+    - icon: github
+      text: Github
+      href: https://github.com/cmadland
+    - icon: calendar
+      text: Book a meeting
+      href: https://outlook.office.com/bookwithme/user/7d1834622e834a5c9cbcb42b02feabae@uvic.ca/meetingtype/9DgK2fwXJEGRbGOg9j2WRg2?anonymous&ismsaljsauthenabled&ep=mlink
+echo: false
+---
+
+Hi everyone, I'm excited to be teaching EDCI 336 and I'm looking forward to getting to know each of you!
+
+Colin Madland is a PhD Candidate in Educational Studies at the University of Victoria researching technology-integrated assessment in higher education. Colin's work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. He is currently analyzing data for his third of three papers comprising his dissertation. The model put forth in his first two papers, published with his committee members, is the [Technology-Integrated Assessment Framework (TIAF)](https://doi.org/10.18357/otessaj.2024.4.1.63) which centres the importance of the 5Rs of Indigenous education (respect, responsibility, relevance, reciprocity, and relationship) as a component of the duty of care that instructors owe to learners in assessing their work.
+
+Colin has taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. He was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where he supported faculty and learners in using technology to make sense of the world around them. His professional work is currently focussed on increasing access to higher education through multi-access course designs that prioritize flexibility and opportunities for community and connection using a modern, version-controlled workflow and interoperable markdown content.  
+
+Contact and further info at [cmad.land](https://cmad.land).
+
+

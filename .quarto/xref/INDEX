@@ -10,5 +10,8 @@
   },
   "about.qmd": {
     "about.html": "5c38902f"
+  },
+  "posts/about-colin/index.qmd": {
+    "index.html": "d85a4674"
   }
 }

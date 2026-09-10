@@ -7,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/about-colin/index.html",
+    "href": "posts/about-colin/index.html",
+    "title": "Colin Madland, PhD(c)",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Hi everyone, I’m excited to be teaching EDCI 336 and I’m looking forward to getting to know each of you!\nColin Madland is a PhD Candidate in Educational Studies at the University of Victoria researching technology-integrated assessment in higher education. Colin’s work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. He is currently analyzing data for his third of three papers comprising his dissertation. The model put forth in his first two papers, published with his committee members, is the Technology-Integrated Assessment Framework (TIAF) which centres the importance of the 5Rs of Indigenous education (respect, responsibility, relevance, reciprocity, and relationship) as a component of the duty of care that instructors owe to learners in assessing their work.\nColin has taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. He was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where he supported faculty and learners in using technology to make sense of the world around them. His professional work is currently focussed on increasing access to higher education through multi-access course designs that prioritize flexibility and opportunities for community and connection using a modern, version-controlled workflow and interoperable markdown content.\nContact and further info at cmad.land."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Technology and Innovation in Education",
     "section": "",
-    "text": "This is some content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 13, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "This is some content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColin Madland, PhD(c)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2026\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
   }
 ]
