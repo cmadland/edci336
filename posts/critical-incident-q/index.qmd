@@ -1,0 +1,26 @@
+---
+title: "Classroom Critical Incident Questionnaire"
+image: "dutch-lake.jpeg"
+date: "2026-09-11"
+categories: [edci336]
+bibliography: ../../refs.bib
+csl: ../../apa.csl
+---
+
+The Classroom Critical Incident Questionnaire [@brookfieldCriticalIncidentQuestionnaire] is a `metacognitive` tool you can use to help you reflect on your own experience as a learner in a classroom (analog or digtal). Being aware of your own experience as a learner is a powerful method of coming to know how you want to show up as a teacher.
+
+The questionnaire consists of a few questions that you can answer in just a few minutes.
+
+## The Classroom Critical Incident Questionnaire
+
+Please take about five minutes to respond to the questions below about this week’s class. If nothing comes to mind for any of the questions just leave the space blank. At the next class we will share the group's responses with all of you. Thanks for taking the time to do this. What you write will help us make the class more responsive to your concerns.
+
+- At what moment in class this week did you feel most engaged with what was happening?  
+- At what moment in class this week were you most distanced from what was happening?  
+- What action that anyone (teacher or student) took this week did you find most affirming or helpful?  
+- What action that anyone took this week did you find most puzzling or confusing?  
+- What about the class this week surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).  
+
+Record your responses on your blog, but please do not mention specific people by name.
+
+Use the category #cciq.

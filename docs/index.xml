@@ -10,7 +10,49 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 10 Sep 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Classroom Critical Incident Questionnaire</title>
+  <link>https://cmadland.github.io/edci336/posts/critical-incident-q/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Classroom Critical Incident Questionnaire <span class="citation" data-cites="brookfieldCriticalIncidentQuestionnaire">(Brookfield, n.d.)</span> is a <code>metacognitive</code> tool you can use to help you reflect on your own experience as a learner in a classroom (analog or digtal). Being aware of your own experience as a learner is a powerful method of coming to know how you want to show up as a teacher.</p>
+<p>The questionnaire consists of a few questions that you can answer in just a few minutes.</p>
+<section id="the-classroom-critical-incident-questionnaire" class="level2">
+<h2 class="anchored" data-anchor-id="the-classroom-critical-incident-questionnaire">The Classroom Critical Incident Questionnaire</h2>
+<p>Please take about five minutes to respond to the questions below about this week’s class. If nothing comes to mind for any of the questions just leave the space blank. At the next class we will share the group’s responses with all of you. Thanks for taking the time to do this. What you write will help us make the class more responsive to your concerns.</p>
+<ul>
+<li>At what moment in class this week did you feel most engaged with what was happening?<br>
+</li>
+<li>At what moment in class this week were you most distanced from what was happening?<br>
+</li>
+<li>What action that anyone (teacher or student) took this week did you find most affirming or helpful?<br>
+</li>
+<li>What action that anyone took this week did you find most puzzling or confusing?<br>
+</li>
+<li>What about the class this week surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).</li>
+</ul>
+<p>Record your responses on your blog, but please do not mention specific people by name.</p>
+<p>Use the category #cciq.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-brookfieldCriticalIncidentQuestionnaire" class="csl-entry">
+Brookfield, S. (n.d.). <em>Critical <span>Incident Questionnaire</span></em>. Stephen D. Brookfield. Retrieved September 11, 2026, from <a href="http://www.stephenbrookfield.com/critical-incident-questionnaire">http://www.stephenbrookfield.com/critical-incident-questionnaire</a>
+</div>
+</div></section></div> ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/critical-incident-q/</guid>
+  <pubDate>Fri, 11 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/critical-incident-q/dutch-lake.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>About Colin</title>
   <link>https://cmadland.github.io/edci336/posts/about-colin/</link>
