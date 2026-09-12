@@ -1,18 +1,20 @@
 ---
-title: "About Colin"
-image: "colin.jpg"
-date: "2026-09-10"
+title: "20260911 Week 1"
+image: "surly.jpeg"
+date: "2026-09-12"
 categories: [edci336]
 ---
 
-Hi everyone, I'm excited to be teaching EDCI 336 and I'm looking forward to getting to know each of you!
+Thank you all for joining our class meeting yesterday, with apologies to those who were prevented from joining by my Zoom settings. It is up to you to ensure that you can access the class meeting in Zoom each week, so please ensure that you ***[**follow these instructions**](https://edtechuvic.ca/edci336/2026/09/11/zoom/) before Thursday, September 17***, test your Zoom login, **then** contact me if you have difficulty. If you are logged in properly, you should end up in the waiting room of the session.
 
-I am a PhD Candidate in Educational Studies at UVic researching technology-integrated assessment in higher education. My work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. I am currently analyzing data for the third of three papers comprising my dissertation. 
+If you missed the meeting, [you can catch the recording linked on our Social Spaces page.](https://edtechuvic.ca/edci336/social-spaces-with-colin-fall-2026-a01/) - password was sent in my 'Welcome to EDCI 336 (A01)' announcement. Please note that I will be recording future classes for accessibility purposes, but I will not share those recordings with the whole class. You must attend class.
 
-I taught educational technology in K-12 in BC, Alberta, and Japan between 2000 and 2010 and led technology-integrated teams in instructional design in higher ed and have taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. I was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where I supported faculty and learners in using technology to make sense of the world around them. 
+## Things to do this week (before our next class meeting)
 
-I live in West Kelowna, on the traditional, ancestral, and unceded territory of the Syilx people, and I spend a bunch of my spare time on my bicycle, walking my dog, or doing cool stuff with my wife. We have three kids: one is a police officer in Abbotsford, where he lives with his wife and 2 boys, one is a nurse in Surrey living in Maple Ridge with her husband and twin boys, and the third is just starting his first year of university, studying Human Kinetics.
-
-Contact and further info at [cmad.land](https://cmad.land).
-
-
+- [ ] **Sign up** for a WordPress site at [the OpenETC](https://opened.ca)
+  - [ ] **Contact** me by Wednesday, September 15 if you have difficulties signing in to your site (e.g., you see the error message that your site is being set up and to check back in a few minutes) 
+- [ ] [**Sign up** for a Learning Pod](https://uvic-my.sharepoint.com/:x:/g/personal/cmadland_uvic_ca/IQCIuiQDL0F-QJbJDAjv9WNfAec8g9Gq2XZZHbKqMJUhap4?e=4rK3Gy) - UVic Login Required. Do not edit anyone else's information please.
+- [ ] **After** you have access to your own website on the OpenETC, [visit our Social Spaces page and complete the two surveys linked here.](https://edtechuvic.ca/edci336/surveys-for-a01-with-colin/)
+- [ ] **Watch** [Most Likely to Succeed](https://webapp.library.uvic.ca/videos/viewlinks.php?vfn=Most-Likely-To-Succeed-(2015).mp4) - UVic Library login required.
+- [ ] **Read** [Alpha School wants AI to teach a Billion kids. Should it?](https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/) - Let me know if you can't access this link.
+  - [ ] [Also read the discussions related ot this article.](https://www.scientificamerican.com/discussions/should-ai-be-in-charge-of-education/) 
