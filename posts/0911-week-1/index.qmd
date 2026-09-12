@@ -1,0 +1,18 @@
+---
+title: "About Colin"
+image: "colin.jpg"
+date: "2026-09-10"
+categories: [edci336]
+---
+
+Hi everyone, I'm excited to be teaching EDCI 336 and I'm looking forward to getting to know each of you!
+
+I am a PhD Candidate in Educational Studies at UVic researching technology-integrated assessment in higher education. My work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. I am currently analyzing data for the third of three papers comprising my dissertation. 
+
+I taught educational technology in K-12 in BC, Alberta, and Japan between 2000 and 2010 and led technology-integrated teams in instructional design in higher ed and have taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. I was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where I supported faculty and learners in using technology to make sense of the world around them. 
+
+I live in West Kelowna, on the traditional, ancestral, and unceded territory of the Syilx people, and I spend a bunch of my spare time on my bicycle, walking my dog, or doing cool stuff with my wife. We have three kids: one is a police officer in Abbotsford, where he lives with his wife and 2 boys, one is a nurse in Surrey living in Maple Ridge with her husband and twin boys, and the third is just starting his first year of university, studying Human Kinetics.
+
+Contact and further info at [cmad.land](https://cmad.land).
+
+

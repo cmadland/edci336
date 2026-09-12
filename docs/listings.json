@@ -2,9 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/about-colin/index.html",
       "/posts/critical-incident-q/index.html",
       "/posts/zoom/index.html",
-      "/posts/about-colin/index.html"
+      "/posts/0911-week-1/index.html"
     ]
   }
 ]
