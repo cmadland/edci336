@@ -1,0 +1,52 @@
+---
+title: "Week 2"
+image: "longboard.jpeg"
+date: "2026-09-19"
+categories: [edci336]
+---
+
+
+
+## Week 2
+
+Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts. 
+
+This week, we are exploring ideas related to 
+
+- FIPPA, privacy and consent
+- Intellectual property and open educational resources
+
+As you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the `content` and the `technical skills` required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, [please don't hesitate to book a time (or two) at this link.](https://bookings.cloud.microsoft/bookwithme/user/7d1834622e834a5c9cbcb42b02feabae@uvic.ca/meetingtype/9DgK2fwXJEGRbGOg9j2WRg2?anonymous&ismsaljsauthenabled&ep=mlink) It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated.
+
+## Topics for Review
+
+Here are some things we talked about in Week 1.
+
+- [RSS (This wikipedia link is a bit technical, but provides some good info.)](https://en.wikipedia.org/wiki/RSS)
+  - I believe that RSS is one of the grossly underappreciated technologies for learning, because subscribing to RSS feeds is a perfect way to escape the infinite scroll algorithms of social media sites.
+  - [Feedly](https://feedly.com) is excellent, and I also use [inoreader.com](https://inoreader.com), which allows me to subscribe to feeds, group similar feeds together, and then publish a metafeed that other folks can subscribe to.
+- [Most Likely to Succeed](https://webapp.library.uvic.ca/videos/viewlinks.php?vfn=Most-Likely-To-Succeed-(2015).mp4) - UVic Library login required.
+  - If you have not yet watched this, please make it a priority.
+- [Alpha School wants AI to teach a Billion kids. Should it?](https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/)
+- [liberating structures](https://liberatingstructures.com)
+  - spiral journalling
+  - 1-2-4-all
+- [What Teachers Make - Taylor Mali](https://youtu.be/RGKm201n-U4?si=uv5AXpztIl-sId-l)
+- [Cooperative Learning](https://www.co-operation.org/what-is-cooperative-learning)
+
+
+
+## Things to do this week (before our next class meeting)
+
+- [ ] [**Publish** your first post towards completing Assignment 3](https://edtechuvic.ca/edci336/assignment-3-weekly-reflections-30/). This post should be published on your blog as a new post, and should use the categories as requested on the assignment page.  
+  - [ ] Your post should cover items in the `Topics for Review` section on this post.  
+- [ ] **Share** a draft of your [Learning Plan for the Inquiry Project](https://edtechuvic.ca/edci336/assignment-1-free-inquiry-project/) with me and your learning pod. Consider the following tools:  
+  - [ ] [Trello](https://trello.com/)  
+  - [ ] [MS Planner (UVic hosted)](https://onlineacademiccommunity.uvic.ca/O365/planner/)  
+  - [ ] others as you find them  
+- [ ]  **Read** [Privacy and Safety](https://edtechuvic.ca/edci336/privacy-and-safety/) on the course site, including the links.  
+- [ ]  **Read** [Freedom of Information and Protection of Privacy (FIPPA)](https://edtechuvic.ca/edci336/2021/03/25/freedom-of-information-and-protection-of-privacy-act-fippa/)  
+- [ ]  **Read** [All the posts categorized `Copyright` on the course site.](https://edtechuvic.ca/edci336/category/copyright/)  
+  - [ ]  **Suggestion** - lean on your learning pod to share the load on these posts. Each of you can pick a post or two and share your findings with your learning pod.  
+
+That's a bunch of work for you! Please reach out if you are having challenges!

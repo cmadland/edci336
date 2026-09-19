@@ -10,7 +10,86 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sat, 12 Sep 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 2</title>
+  <link>https://cmadland.github.io/edci336/posts/0918-week-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="week-2" class="level2">
+<h2 class="anchored" data-anchor-id="week-2">Week 2</h2>
+<p>Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts.</p>
+<p>This week, we are exploring ideas related to</p>
+<ul>
+<li>FIPPA, privacy and consent</li>
+<li>Intellectual property and open educational resources</li>
+</ul>
+<p>As you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the <code>content</code> and the <code>technical skills</code> required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, <a href="https://bookings.cloud.microsoft/bookwithme/user/7d1834622e834a5c9cbcb42b02feabae@uvic.ca/meetingtype/9DgK2fwXJEGRbGOg9j2WRg2?anonymous&amp;ismsaljsauthenabled&amp;ep=mlink">please don’t hesitate to book a time (or two) at this link.</a> It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated.</p>
+</section>
+<section id="topics-for-review" class="level2">
+<h2 class="anchored" data-anchor-id="topics-for-review">Topics for Review</h2>
+<p>Here are some things we talked about in Week 1.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/RSS">RSS (This wikipedia link is a bit technical, but provides some good info.)</a>
+<ul>
+<li>I believe that RSS is one of the grossly underappreciated technologies for learning, because subscribing to RSS feeds is a perfect way to escape the infinite scroll algorithms of social media sites.</li>
+<li><a href="https://feedly.com">Feedly</a> is excellent, and I also use <a href="https://inoreader.com">inoreader.com</a>, which allows me to subscribe to feeds, group similar feeds together, and then publish a metafeed that other folks can subscribe to.</li>
+</ul></li>
+<li><a href="https://webapp.library.uvic.ca/videos/viewlinks.php?vfn=Most-Likely-To-Succeed-(2015).mp4">Most Likely to Succeed</a> - UVic Library login required.
+<ul>
+<li>If you have not yet watched this, please make it a priority.</li>
+</ul></li>
+<li><a href="https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/">Alpha School wants AI to teach a Billion kids. Should it?</a></li>
+<li><a href="https://liberatingstructures.com">liberating structures</a>
+<ul>
+<li>spiral journalling</li>
+<li>1-2-4-all</li>
+</ul></li>
+<li><a href="https://youtu.be/RGKm201n-U4?si=uv5AXpztIl-sId-l">What Teachers Make - Taylor Mali</a></li>
+<li><a href="https://www.co-operation.org/what-is-cooperative-learning">Cooperative Learning</a></li>
+</ul>
+</section>
+<section id="things-to-do-this-week-before-our-next-class-meeting" class="level2">
+<h2 class="anchored" data-anchor-id="things-to-do-this-week-before-our-next-class-meeting">Things to do this week (before our next class meeting)</h2>
+<ul class="task-list">
+<li><label><input type="checkbox"><a href="https://edtechuvic.ca/edci336/assignment-3-weekly-reflections-30/"><strong>Publish</strong> your first post towards completing Assignment 3</a>. This post should be published on your blog as a new post, and should use the categories as requested on the assignment page.</label>
+<ul class="task-list">
+<li><label><input type="checkbox">Your post should cover items in the <code>Topics for Review</code> section on this post.<br>
+</label></li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Share</strong> a draft of your <a href="https://edtechuvic.ca/edci336/assignment-1-free-inquiry-project/">Learning Plan for the Inquiry Project</a> with me and your learning pod. Consider the following tools:</label>
+<ul class="task-list">
+<li><label><input type="checkbox"><a href="https://trello.com/">Trello</a><br>
+</label></li>
+<li><label><input type="checkbox"><a href="https://onlineacademiccommunity.uvic.ca/O365/planner/">MS Planner (UVic hosted)</a><br>
+</label></li>
+<li><label><input type="checkbox">others as you find them<br>
+</label></li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Read</strong> <a href="https://edtechuvic.ca/edci336/privacy-and-safety/">Privacy and Safety</a> on the course site, including the links.<br>
+</label></li>
+<li><label><input type="checkbox"><strong>Read</strong> <a href="https://edtechuvic.ca/edci336/2021/03/25/freedom-of-information-and-protection-of-privacy-act-fippa/">Freedom of Information and Protection of Privacy (FIPPA)</a><br>
+</label></li>
+<li><label><input type="checkbox"><strong>Read</strong> <a href="https://edtechuvic.ca/edci336/category/copyright/">All the posts categorized <code>Copyright</code> on the course site.</a></label>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Suggestion</strong> - lean on your learning pod to share the load on these posts. Each of you can pick a post or two and share your findings with your learning pod.</label></li>
+</ul></li>
+</ul>
+<p>That’s a bunch of work for you! Please reach out if you are having challenges!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/0918-week-2/</guid>
+  <pubDate>Sat, 19 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/0918-week-2/longboard.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>20260911 Week 1</title>
   <link>https://cmadland.github.io/edci336/posts/0911-week-1/</link>
