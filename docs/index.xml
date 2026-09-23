@@ -10,7 +10,29 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sat, 19 Sep 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 2 Update</title>
+  <link>https://cmadland.github.io/edci336/posts/0923-week-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="week-2-update" class="level2">
+<h2 class="anchored" data-anchor-id="week-2-update">Week 2 Update</h2>
+<p>Some of you have reached out to ask about the planning for the Inquiry Project. <a href="https://echo360.ca/media/a8942051-81cc-4472-a82c-bb66cd019f61/public">Here’s a quick video explanation.</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/0923-week-2/</guid>
+  <pubDate>Wed, 23 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/0923-week-2/Abstract_Kanban_Board.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Week 2</title>
   <link>https://cmadland.github.io/edci336/posts/0918-week-2/</link>
