@@ -1,6 +1,6 @@
 ---
 title: "About Colin"
-image: "colin.jpg"
+image: "river.jpeg"
 date: "2026-09-10"
 categories: [edci336]
 ---

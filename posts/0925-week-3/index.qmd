@@ -1,0 +1,56 @@
+---
+title: "Week 3"
+image: "ellie.jpeg"
+date: "2026-09-25"
+categories: [edci336]
+---
+
+Hello everyone, welcome to week 3!
+
+On the agenda for today...
+
+[Liberating Structures - Impromptu Networking](https://www.liberatingstructures.com/impromptu-networking)
+
+- Spiral Journal (optional) 
+  - What big challenge do you bring to this gathering? 
+  - What do you hope to get from and give to this group or community? (3 min.)
+- 3 rounds of 3-4 mins in breakouts of 2-3.
+
+## FIPPA, Privacy, and Security
+
+> Data is the new oil. ~Someone on the Internet
+
+## Sites to visit
+
+- [clickclickclick.click](https://clickclickclick.click). 
+- [Since You Arrived](https://sinceyouarrived.world/taken). 
+- [Privacy.net](https://privacy.net/analyzer/). 
+- Google Maps (on mobile) -> Timeline
+
+
+## Current Events
+
+
+::: {.callout-important}
+
+I'm providing the following links for conversation and analysis. You are NOT being asked to take any action or position for or against Bill C-22.
+
+:::
+
+- [Meta Muse](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlRCMllBWU03QWMiLCJwIjoiL3RlY2gvOTk5ODg5L3NweS1jcmVlcC10ZWNoLW1ldGEtZ2xhc3Nlcy1hcHBsZS13YXRjaGVzLXN1cnZlaWxsYW5jZSIsImV4cCI6MTc5MDY5Mzk4NiwiaWF0IjoxNzkwMjYxOTg3fQ.wvzmSmCmaHiXO57xEvSNCLWmHQ3-Mzjx4WUEkHZ9Mdw)
+- [Bill C-22 in Canada](https://www.justice.gc.ca/eng/csj-sjc/pl/c22/infographics-infographies.html). 
+- [Opposition to Bill C-22](https://dontsurveil.me/c22.html)
+
+### Recent Breaches
+
+- [US Cybersecurity and Infrastructure Security Agency](https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330)    
+- Canvas LMS  
+  - [CyberSecureDad](https://www.instagram.com/p/DYG6zkqG5Is/?img_index=1)  
+  - [CBC News](https://www.cbc.ca/news/canada/canvas-cyberhack-deal-9.7195425)  
+  - [Cybersecurity Canada](https://cybersecuritycanada.ca/news/posts/canvas-data-breach-what-canadian-universities-and-businesses-need-to-know/)
+- [Canada Life](https://cybersecuritycanada.ca/news/posts/canada-life-data-breach-what-canadians-need-to-know/)    
+
+## Disconnecting
+
+- [Paris Marx on Disconnecting from US Tech](https://disconnect.blog/getting-off-us-tech-a-guide/). 
+- [Stop Google from Tracking You.](https://cyberguy.com/privacy/stop-google-following-move/) 

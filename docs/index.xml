@@ -10,7 +10,95 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 23 Sep 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 3</title>
+  <link>https://cmadland.github.io/edci336/posts/0925-week-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Hello everyone, welcome to week 3!</p>
+<p>On the agenda for today…</p>
+<p><a href="https://www.liberatingstructures.com/impromptu-networking">Liberating Structures - Impromptu Networking</a></p>
+<ul>
+<li>Spiral Journal (optional)
+<ul>
+<li>What big challenge do you bring to this gathering?</li>
+<li>What do you hope to get from and give to this group or community? (3 min.)</li>
+</ul></li>
+<li>3 rounds of 3-4 mins in breakouts of 2-3.</li>
+</ul>
+<section id="fippa-privacy-and-security" class="level2">
+<h2 class="anchored" data-anchor-id="fippa-privacy-and-security">FIPPA, Privacy, and Security</h2>
+<blockquote class="blockquote">
+<p>Data is the new oil. ~Someone on the Internet</p>
+</blockquote>
+</section>
+<section id="sites-to-visit" class="level2">
+<h2 class="anchored" data-anchor-id="sites-to-visit">Sites to visit</h2>
+<ul>
+<li><a href="https://clickclickclick.click">clickclickclick.click</a>.</li>
+<li><a href="https://sinceyouarrived.world/taken">Since You Arrived</a>.</li>
+<li><a href="https://privacy.net/analyzer/">Privacy.net</a>.</li>
+<li>Google Maps (on mobile) -&gt; Timeline</li>
+</ul>
+</section>
+<section id="current-events" class="level2">
+<h2 class="anchored" data-anchor-id="current-events">Current Events</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>I’m providing the following links for conversation and analysis. You are NOT being asked to take any action or position for or against Bill C-22.</p>
+</div>
+</div>
+<ul>
+<li><a href="https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlRCMllBWU03QWMiLCJwIjoiL3RlY2gvOTk5ODg5L3NweS1jcmVlcC10ZWNoLW1ldGEtZ2xhc3Nlcy1hcHBsZS13YXRjaGVzLXN1cnZlaWxsYW5jZSIsImV4cCI6MTc5MDY5Mzk4NiwiaWF0IjoxNzkwMjYxOTg3fQ.wvzmSmCmaHiXO57xEvSNCLWmHQ3-Mzjx4WUEkHZ9Mdw">Meta Muse</a></li>
+<li><a href="https://www.justice.gc.ca/eng/csj-sjc/pl/c22/infographics-infographies.html">Bill C-22 in Canada</a>.</li>
+<li><a href="https://dontsurveil.me/c22.html">Opposition to Bill C-22</a></li>
+</ul>
+<section id="recent-breaches" class="level3">
+<h3 class="anchored" data-anchor-id="recent-breaches">Recent Breaches</h3>
+<ul>
+<li><a href="https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330">US Cybersecurity and Infrastructure Security Agency</a><br>
+</li>
+<li>Canvas LMS
+<ul>
+<li><a href="https://www.instagram.com/p/DYG6zkqG5Is/?img_index=1">CyberSecureDad</a><br>
+</li>
+<li><a href="https://www.cbc.ca/news/canada/canvas-cyberhack-deal-9.7195425">CBC News</a><br>
+</li>
+<li><a href="https://cybersecuritycanada.ca/news/posts/canvas-data-breach-what-canadian-universities-and-businesses-need-to-know/">Cybersecurity Canada</a></li>
+</ul></li>
+<li><a href="https://cybersecuritycanada.ca/news/posts/canada-life-data-breach-what-canadians-need-to-know/">Canada Life</a></li>
+</ul>
+</section>
+</section>
+<section id="disconnecting" class="level2">
+<h2 class="anchored" data-anchor-id="disconnecting">Disconnecting</h2>
+<ul>
+<li><a href="https://disconnect.blog/getting-off-us-tech-a-guide/">Paris Marx on Disconnecting from US Tech</a>.</li>
+<li><a href="https://cyberguy.com/privacy/stop-google-following-move/">Stop Google from Tracking You.</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/0925-week-3/</guid>
+  <pubDate>Fri, 25 Sep 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/0925-week-3/ellie.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 2 Update</title>
   <link>https://cmadland.github.io/edci336/posts/0923-week-2/</link>
@@ -331,7 +419,7 @@ Important
   <category>edci336</category>
   <guid>https://cmadland.github.io/edci336/posts/about-colin/</guid>
   <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-  <media:content url="https://cmadland.github.io/edci336/posts/about-colin/colin.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://cmadland.github.io/edci336/posts/about-colin/river.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
