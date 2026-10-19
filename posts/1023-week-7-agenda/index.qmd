@@ -1,0 +1,27 @@
+---
+title: "Week 7 Agenda"
+image: "mouse.jpeg"
+date: "2026-10-23"
+categories: [edci336]
+---
+
+
+
+A newspaper is better than a magazine
+A seashore is a better place than the street
+At first it is better to run than to walk
+You may have to try several times
+It takes some skill but it's easy to learn
+Even young children can enjoy it
+Once successful, complications are minimal
+Birds seldom get too close
+Rain, however, soaks in very fast
+Too many people doing the same thing can also cause problems
+One needs lots of room
+If there are no complications, it can be very peaceful
+A rock will serve as an anchor
+If things break loose from it, however, you will not get a second chance
+
+[TRIZ](https://www.liberatingstructures.com/creative-destruction)
+
+[Slides](https://docs.google.com/presentation/d/1WvBa0MOozMiUzoIC01tOJ71T5ixokzgb-xQeDN3r_kQ/edit?slide=id.g3e2bdae2db7_0_0#slide=id.g3e2bdae2db7_0_0)
