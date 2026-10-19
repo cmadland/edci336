@@ -10,7 +10,74 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 14 Oct 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 7</title>
+  <link>https://cmadland.github.io/edci336/posts/1019-week-7/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="week-7" class="level2">
+<h2 class="anchored" data-anchor-id="week-7">Week 7</h2>
+<p>Good morning everyone! Welcome to week 7. We are more than half-way through the course, and I have really enjoyed working with you all.</p>
+<p>This week’s class will be an exploration of some learning theories related to teaching with technology and media. Hopefully, you read <span class="citation" data-cites="bowerTechnologymediatedLearningTheory2019">Bower (2019)</span>’s article last week, which serves as a good foundation for thinking about the theories we will discuss this week. Specifically, we will think about Clark and Mayer’s <span class="citation" data-cites="clarkElearningScienceInstruction2024">(2024)</span> 12 principles of multimedia learning, <span class="citation" data-cites="puenteduraBuildingTransformationIntroduction2009">Puentedura (2009)</span>’s SAMR model, and <span class="citation" data-cites="mishraTechnologicalPedagogicalContent2006">Mishra and Koehler (2006)</span>’s TPACK model. You can find some brief commentary on these ideas and links to resources on the course website at <code>Education Competencies &gt; Theories</code> in the menu. Please come to class having interacted with these resources and prepared to critically discuss these ideas. As you blog about these ideas, make sure you draw connections back to the media we created last week and some of the concepts we talked about during your presentations.</p>
+<p>I’ve had a few conversations with folks from the class probing whether it is ok to be critical of the ideas presented in class, and the answer to that is a hearty YES! Very little of what we talk about in this class or in education <em>writ large</em> is binary (right or wrong, good or bad). There is always nuance, disagreement, context, and individual circumstance to consider (aside from what should be obvious ethical boundaries). Please politely disagree with me, with guests, with authors, ideas, etc. The best way to do this is to ask clarifiying questions, like ‘What do you mean by that?’ or ‘How did you come to that conclusion?’. This way, your critique is about an idea rather than a person.</p>
+<p>Like last week, on Friday we will be doing a fair amount of work in learning pod breakouts, and you are welcome to meet together IRL if that makes it easier for you to work together.</p>
+</section>
+<section id="learning-pod-meetings" class="level2">
+<h2 class="anchored" data-anchor-id="learning-pod-meetings">Learning Pod Meetings</h2>
+<p>Make sure you and your pod have booked a time to meet with me (link is on our social spaces page). I have really enjoyed meeting with the groups so far, and am looking forward to more this week. It is important to get this done this week, but please let me know if that is difficult.</p>
+</section>
+<section id="assignment-2" class="level2">
+<h2 class="anchored" data-anchor-id="assignment-2">Assignment 2</h2>
+<p>I hear that there are some overlapping technologies that pods have identified as their choice for presentation. Please work amongst yourselves to ensure that each presentation is unique. It is best if there is little overlap in the underlying technology, rather than just the specific tool. For example, only one group should present on ‘presentation software’, so ‘Google Slides’, and ‘MS PowerPoint’ would be too similar. (I know this is counter to what I told one group last week–sorry! There is plenty of time to adjust.) If two groups can justify presenting similar technologies, I will consider your arguments if there is a genuine difference between your presentations.</p>
+</section>
+<section id="things-to-do-this-week-before-our-next-class-meeting" class="level2">
+<h2 class="anchored" data-anchor-id="things-to-do-this-week-before-our-next-class-meeting">Things to do this week (before our next class meeting)</h2>
+<ul class="task-list">
+<li><label><input type="checkbox">make sure you are up-to-date with your blog posts, both for <a href="https://edtechuvic.ca/edci336/assignment-1-free-inquiry-project/">Assignment 1 (Free Inquiry)</a> and <a href="https://edtechuvic.ca/edci336/assignment-3-weekly-reflections-30/">Assignment 3 (Weekly Reflections)</a>.</label></li>
+<li><label><input type="checkbox">If you haven’t already, book a time to meet with me as a Learning Pod. The meeting itself should take place between today and October 23.</label>
+<ul>
+<li>We will talk about:</li>
+<li>any questions or concerns you have related to the class,</li>
+<li>your plans for <a href="https://edtechuvic.ca/edci336/assignment-2-educational-technology-presentation-30/">Assignment 2</a>, so please come prepared to give me an overview of your topic, why it is of interest, and any initial thoughts or findings.</li>
+<li>Please use my booking link published on the Social Spaces page of the course website and feel free to book more than one slot in a row if you think you’ll need it.</li>
+</ul></li>
+<li><label><input type="checkbox">If you haven’t already, <strong>Read</strong> <span class="citation" data-cites="bowerTechnologymediatedLearningTheory2019">Bower (2019)</span>. <a href="https://doi.org/10.1111/bjet.12771">Technology‐mediated learning theory</a>. <em>British Journal of Educational Technology, 50</em>(3), 1035–1048.</label></li>
+<li><label><input type="checkbox"><strong>Read/Watch</strong> each of the posts under <code>Education Competencies &gt; Theories</code>, including the linked resources.</label></li>
+</ul>
+</section>
+<section id="next-meeting" class="level2">
+<h2 class="anchored" data-anchor-id="next-meeting">Next Meeting</h2>
+<p>Friday, October 23, 8:30 AM at the normal Zoom link.</p>
+<p>As always, I’m cheering you on! Feel free to reach out if you have any questions or concerns.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-bowerTechnologymediatedLearningTheory2019" class="csl-entry">
+Bower, Matt. 2019. <span>“Technology‐mediated Learning Theory.”</span> <em>British Journal of Educational Technology</em> 50 (3): 1035–48. <a href="https://doi.org/10.1111/bjet.12771">https://doi.org/10.1111/bjet.12771</a>.
+</div>
+<div id="ref-clarkElearningScienceInstruction2024" class="csl-entry">
+Clark, Ruth Colvin, and Richard E. Mayer. 2024. <em>E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning</em>. Fifth edition. Wiley.
+</div>
+<div id="ref-mishraTechnologicalPedagogicalContent2006" class="csl-entry">
+Mishra, Punya, and Matthew J. Koehler. 2006. <span>“Technological Pedagogical Content Knowledge: <span>A</span> Framework for Teacher Knowledge.”</span> <em>Teachers College Record (1970)</em> (THOUSAND OAKS) 108 (6): 1017–54. <a href="https://doi.org/10.1111/j.1467-9620.2006.00684.x">https://doi.org/10.1111/j.1467-9620.2006.00684.x</a>.
+</div>
+<div id="ref-puenteduraBuildingTransformationIntroduction2009" class="csl-entry">
+Puentedura, Ruben R. 2009. <span>“Building <span>Transformation</span>: <span>An Introduction</span> to the <span>SAMR Model</span>.”</span> Http://hippasus.com. <a href="http://www.hippasus.com/rrpweblog/archives/2012/08/14/SAMR_SixExemplars.pdf">http://www.hippasus.com/rrpweblog/archives/2012/08/14/SAMR_SixExemplars.pdf</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/1019-week-7/</guid>
+  <pubDate>Mon, 19 Oct 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/1019-week-7/mouse.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 6</title>
   <link>https://cmadland.github.io/edci336/posts/1014-week-4-6/</link>

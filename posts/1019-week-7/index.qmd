@@ -1,0 +1,44 @@
+---
+title: "Week 7"
+image: "mouse.jpeg"
+date: "2026-10-19"
+categories: [edci336]
+---
+
+
+
+## Week 7
+
+Good morning everyone! Welcome to week 7. We are more than half-way through the course, and I have really enjoyed working with you all.
+
+This week's class will be an exploration of some learning theories related to teaching with technology and media. Hopefully, you read @bowerTechnologymediatedLearningTheory2019's article last week, which serves as a good foundation for thinking about the theories we will discuss this week. Specifically, we will think about Clark and Mayer's [-@clarkElearningScienceInstruction2024] 12 principles of multimedia learning, @puenteduraBuildingTransformationIntroduction2009's SAMR model, and @mishraTechnologicalPedagogicalContent2006's TPACK model. You can find some brief commentary on these ideas and links to resources on the course website at `Education Competencies > Theories` in the menu. Please come to class having interacted with these resources and prepared to critically discuss these ideas. As you blog about these ideas, make sure you draw connections back to the media we created last week and some of the concepts we talked about during your presentations.
+
+I've had a few conversations with folks from the class probing whether it is ok to be critical of the ideas presented in class, and the answer to that is a hearty YES! Very little of what we talk about in this class or in education *writ large* is binary (right or wrong, good or bad). There is always nuance, disagreement, context, and individual circumstance to consider (aside from what should be obvious ethical boundaries). Please politely disagree with me, with guests, with authors, ideas, etc. The best way to do this is to ask clarifiying questions, like 'What do you mean by that?' or 'How did you come to that conclusion?'. This way, your critique is about an idea rather than a person.
+
+Like last week, on Friday we will be doing a fair amount of work in learning pod breakouts, and you are welcome to meet together IRL if that makes it easier for you to work together. 
+
+## Learning Pod Meetings
+
+Make sure you and your pod have booked a time to meet with me (link is on our social spaces page). I have really enjoyed meeting with the groups so far, and am looking forward to more this week. It is important to get this done this week, but please let me know if that is difficult.
+
+## Assignment 2
+
+I hear that there are some overlapping technologies that pods have identified as their choice for presentation. Please work amongst yourselves to ensure that each presentation is unique. It is best if there is little overlap in the underlying technology, rather than just the specific tool. For example, only one group should present on 'presentation software', so 'Google Slides', and 'MS PowerPoint' would be too similar. (I know this is counter to what I told one group last week–sorry! There is plenty of time to adjust.) If two groups can justify presenting similar technologies, I will consider your arguments if there is a genuine difference between your presentations.
+
+## Things to do this week (before our next class meeting)
+
+- [ ] make sure you are up-to-date with your blog posts, both for [Assignment 1 (Free Inquiry)](https://edtechuvic.ca/edci336/assignment-1-free-inquiry-project/) and [Assignment 3 (Weekly Reflections)](https://edtechuvic.ca/edci336/assignment-3-weekly-reflections-30/).
+- [ ] If you haven't already, book a time to meet with me as a Learning Pod. The meeting itself should take place between today and October 23.
+  -  We will talk about: 
+    - any questions or concerns you have related to the class,
+    - your plans for [Assignment 2](https://edtechuvic.ca/edci336/assignment-2-educational-technology-presentation-30/), so please come prepared to give me an overview of your topic, why it is of interest, and any initial thoughts or findings.
+  - Please use my booking link published on the Social Spaces page of the course website and feel free to book more than one slot in a row if you think you'll need it.
+- [ ] If you haven't already, **Read** @bowerTechnologymediatedLearningTheory2019. [Technology‐mediated learning theory](https://doi.org/10.1111/bjet.12771). *British Journal of Educational Technology, 50*(3), 1035–1048. 
+- [ ] **Read/Watch** each of the posts under `Education Competencies > Theories`, including the linked resources.
+
+## Next Meeting
+
+Friday, October 23, 8:30 AM at the normal Zoom link.
+
+As always, I'm cheering you on! Feel free to reach out if you have any questions or concerns.
+
