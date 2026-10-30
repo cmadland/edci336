@@ -166,7 +166,7 @@ Where
 ### Class Activity
 
 - breakout rooms. 
-- [download this file](https://github.com/cmadland/edci336/blob/main/sample_gradebook_raw.csv)  
+- [download this file](https://github.com/cmadland/edci336/blob/main/data/sample_gradebook_raw.csv)  
 - click the link, then choose 'Download raw file' in the top, right corner of the page.
   ![rawcode](rawcode.png)
 - as a group, decide how these course grades will translate into final grades.  
