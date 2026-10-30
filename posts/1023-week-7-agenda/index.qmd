@@ -5,7 +5,9 @@ date: "2026-10-23"
 categories: [edci336]
 ---
 
-
+- meetings
+- readings
+- blog posts
 
 A newspaper is better than a magazine
 A seashore is a better place than the street
@@ -21,6 +23,8 @@ One needs lots of room
 If there are no complications, it can be very peaceful
 A rock will serve as an anchor
 If things break loose from it, however, you will not get a second chance
+
+CircleIn - image reflection 1-all
 
 [TRIZ](https://www.liberatingstructures.com/creative-destruction)
 

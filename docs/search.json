@@ -21,6 +21,69 @@
     "text": "Things to do this week (before our next class meeting)\n\nSign up for a WordPress site at the OpenETC\n\nContact me by Wednesday, September 16 if you have difficulties signing in to your site (e.g., you see the error message that your site is being set up and to check back in a few minutes)\n\nSign up for a Learning Pod - UVic Login Required. Do not edit anyone else’s information please.\nAfter you have access to your own website on the OpenETC, visit our Social Spaces page and complete the two surveys linked here.\nWatch Most Likely to Succeed - UVic Library login required.\nRead Alpha School wants AI to teach a Billion kids. Should it? - Let me know if you can’t access this link.\n\nAlso read the discussions related to this article."
   },
   {
+    "objectID": "posts/1030-week-8/index.html",
+    "href": "posts/1030-week-8/index.html",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "",
+    "text": "This week, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Assessing a learner’s knowledge or ability in relation to a learning outcome is a key component of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.\n\n\nThis unit is divided into the following topics:\n\nWhat is educational assessment?\nWhat is wrong with educational assesment?\nHow does technology impact assessment?\nFeedback Loops and Spirals\n\n\n\n\nHere is a list of resources that will help your learning.\n\nReview Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048.\nRead Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. Assessment & Evaluation in Higher Education, 44(5), 705–714.\n\nRead Lipnevich, A. A., Guskey, T. R., Murano, D. M., & Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy & Practice, 27(5), 480–500.\nOptional Read Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#overview",
+    "href": "posts/1030-week-8/index.html#overview",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "",
+    "text": "This week, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Assessing a learner’s knowledge or ability in relation to a learning outcome is a key component of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.\n\n\nThis unit is divided into the following topics:\n\nWhat is educational assessment?\nWhat is wrong with educational assesment?\nHow does technology impact assessment?\nFeedback Loops and Spirals\n\n\n\n\nHere is a list of resources that will help your learning.\n\nReview Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048.\nRead Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. Assessment & Evaluation in Higher Education, 44(5), 705–714.\n\nRead Lipnevich, A. A., Guskey, T. R., Murano, D. M., & Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy & Practice, 27(5), 480–500.\nOptional Read Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#what-is-educational-assessment",
+    "href": "posts/1030-week-8/index.html#what-is-educational-assessment",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "What is Educational Assessment?",
+    "text": "What is Educational Assessment?\nA key component of teaching in an educational environment is understanding how educators come to know what learners know. A teacher or peer can play the role of the more experienced ‘other’ that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development (Vygotsky 1978). However, coming to know what learners know is not really a simple task because ‘learning’ and ‘knowledge’ are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can’t examine a person’s brain and determine what they know.\nFor example, if we want to know if a learner can calculate the following:\n\\[2+2=x\\]\nwe cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:\n\\[2+2=\\text{apple}\\]\nwe can then infer that they do not know how to calculate that sum. We can’t be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with\n\\[2+2=4\\]\nWe can infer that they do know how to calculate the sum, but again, we can’t be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly measure a person’s knowledge because knowledge of any given thing is latent, or not directly observable, and it is always subject to error (\\(\\epsilon\\)).\nEducational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of cognitive model or domain that is mapped and understood. In the case above, the cognitive domain might be addition as a mathematical procedure. Second, there must be some sort of observation in the form of a performance task, like “calculate \\(2+2\\)”. Third, there is always an interpretation of the results of the performance task, the inference mentioned above.\nThese three components are interdependent and can be visualised as a triangle as below in Figure 1.\n\n\n\n\n\n\nFigure 1: Assessment Triangle"
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#mapping-the-domain",
+    "href": "posts/1030-week-8/index.html#mapping-the-domain",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "Mapping the Domain",
+    "text": "Mapping the Domain\nIn formal learning settings, the domain is mapped out in the form of learning outcomes, sometimes also called learning targets or learning objectives. It is very likely that every course you have taken in higher ed has included several learning outcomes. Hopefully you recall the outcomes for this course. The learning outcomes for a course describe exactly what you, as a learner, should know, be able to do, or have become after successful completion of the course. For example, the following is a possible learning outcome for a course:\n\nOn successful completion of this course, students should be able to:\nModel metacognitive strategies for self-regulated learning.\n\nNotice that this is not describing an activity in the course, but rather a description of some state of knowledge or being after the course. Additionally, the outcome is (indirectly) observable. I’m not entirely comfortable with advising that outcomes be measurable, as we will see in the next section, but it is important that it is observable. An observable outcome (from the perspective of the instructor) should also be an outcome that can be operationalized (from the perspective of the learner). In other words, the learner will be able to use their new knowledge or ability in their life-context.\nThe verbs used in learning outcomes are important determinants of how observable or operationalizable is the outcome. For example, if the outcome noted above read\n\n“Describe metacognitive strategies for self-regulated learning.”\n\nA simple question on a quiz or in a conversation that simply restates the outcome as a question will allow the instructor to observe whether or not the learner can describe strategies for metacognitive learning. However, operationalizing the ability to describe these strategies is less than inspiring. On the other hand, the ability to ‘model’ these strategies is perhaps more tricky for the instructor being able to observe the learner’s ability, but it is highly relevant when operationalized in the learner’s life.\n\ndescribe = low-level cognitive skill.\nmodel = high level cognitive skill."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#observing-ability",
+    "href": "posts/1030-week-8/index.html#observing-ability",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "Observing Ability",
+    "text": "Observing Ability\nThe second component of the model is that of an observation of the learner’s ability, or an assessment task of some sort. Assessment tasks can take a huge variety of forms and structures, often dictated by the cognitive domain addressed in the course. Examples include essays, exams, oral presentations, videos, dramatic productions, paintings, drawings, sculptures, journals, demonstrations, peer reviews, songs, poems, lab reports, worked examples, mathematic proofs, assessment conversations, revised drafts, websites, marketing campaigns, case studies, skills demonstrations, fitness tests, agility tests, concept maps, photographs…\n\n\n\n\n\n\nImportant\n\n\n\nThe following demonstration may not work on mobile devices.\n\n\n\n\n\n\nYou can likely see from the quiz on slide 4 that someone could answer the question correctly by simply matching a few patterns between the wingding content and the wingding quiz1, and not know anything at all about the actual content on slide 6. This means that a ‘correct response’ may not tell us anything at all about what a learner knows. So if our only method of determining the learner’s ability is to ask them questions, but the questions can be correctly answered without knowledge, then our assessment strategy is not valid.\nThe instrument that an instructor uses to gather data about what learners know or can do is important, and unfortunately, the range of instruments commonly used is relatively limited. Many people may be able to recall their own undergrad experience with the final grade being determined by some combination of papers, midterms, and a final exam, with the weight of each increasing throughout the semester. However, as I mentioned in the previous paragraph, there are myriad different assessment task formats.\nIn a sense, it both matters deeply what assessment task you choose, and matters very little what assessment task you use. The important thing is that the assessment task allows you to gather data about what a learner knows, can do, or has become. Recall that the details of what a learner will know, be able to do, or become are specified in the learning outcomes and can be summarized in the word ability.\nAs long as the learning task is aligned with at least one learning outcome (Biggs 1996), and can reasonably provide data about the learner’s ability\nWe will think about what it means to make a valid inference in the next section."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#interpreting-assessment-data",
+    "href": "posts/1030-week-8/index.html#interpreting-assessment-data",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "Interpreting Assessment Data",
+    "text": "Interpreting Assessment Data\nAs mentioned previously, a grade is not an absolute measurement of what a learner knows, can do, or has become. It is always an interpretation, or inference based on data that the learner provides.\n\nInferring Location\nImagine you are giving someone directions to get from the Bus Loop on the UVic campus to the Visual Arts Building by bicycle. Your friend is late, and so you call them and ask them where they are.\n\nAre you past the Bus Loop?\n\nYes.\n\nHavew you passed the fountain?\n\nYes.\nHave you passed MacLaurin?\nNo. \n\nNow you know that your friend is somewhere between the fountain and MacLaurin, but you don’t know specifically where. you also know that they can’t be at Visual Arts, because they haven’t yet reached MacLaurin. This is illustrated in Figure 2\n\n\n\n\n\n\nFigure 2: Inferring Location\n\n\n\n\n\nInferring Ability\nThis is analogous to what an instructor needs to do to assign a grade, or level of ability, to a learner. The instructor can ask a series of questions or assign a series of tasks of increasing difficulty.\n\nCan you do a difficulty level one task?\n\nYes. (The learner demonstrates their ability.).\nCan you do a difficulty level two task?\n\nYes.\n\nCan you do a difficulty level three task?\n\nNo.\n\nThis is illustrated in Figure 3.\n\n\n\n\n\n\nFigure 3: Inferring Ability\n\n\n\nAfter this series of tasks, the instructor can infer that the learner is somewhere between difficulty level two and three, and since they are below difficulty level three, they can’t be at difficulty level four."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#whats-wrong-with-educational-assessment",
+    "href": "posts/1030-week-8/index.html#whats-wrong-with-educational-assessment",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "What’s Wrong with Educational Assessment?",
+    "text": "What’s Wrong with Educational Assessment?\nOne of the key problems with educational assessment is that higher ed instructors tend to have FAR more confidence in their assigned grades than is justified by the model described above. All we know is that any given learner is within a range of abilities, and without highly sophisticated adaptive exams like the NCLEX for Nurses, or the SAT, MCAT, LSAT, or other standardized tests in the US, that range is remarkably wide.\nResearch from Tom Guskey (Guskey and Brookhart 2019) suggests that the range, otherwise known as the margin of error is +/- 5-6%. That means that most higher ed faculty can really only be confident in placing your grade somewhere in a 10-12% range, like 63-75%, or 78-90%. You should be able to see that is a huge range when many instructors will quibble over 0.5% or less.\nThe reason for this is that a grade is the result of a simple equation shown in Equation 1.\n\\[X=T+e \\tag{1}\\]\n\nWhere\n\n\\(X\\) = the learner’s Observed Score\n\n\n\\(T\\) = the learner’s True Score, and\n\n\n\\(e\\) = Error\n\n\n\nClass Activity\n\nbreakout rooms.\ndownload this file\n\nclick the link, then choose ‘Download raw file’ in the top, right corner of the page. \nas a group, decide how these course grades will translate into final grades.\n\nfeel free to use formulas in Excel to assist your calculations.\nReturn to Main room for conversation."
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#solutions",
+    "href": "posts/1030-week-8/index.html#solutions",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "Solutions",
+    "text": "Solutions\n\n5 pillars of grading\n\nclear outcomes/standards\nalignment between outcomes and tasks\noperationalizable feedback\ngrades indicate progress\nreassessment without penalty\n\nfewer categories of quality"
+  },
+  {
+    "objectID": "posts/1030-week-8/index.html#footnotes",
+    "href": "posts/1030-week-8/index.html#footnotes",
+    "title": "Week 8 - Technology-Integrated Assessment",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe correct answer is ‘b’.↩︎"
+  },
+  {
     "objectID": "posts/zoom/index.html",
     "href": "posts/zoom/index.html",
     "title": "Zoom",
@@ -63,95 +126,32 @@
     "text": "Sign in with UVic\nAfter either option above, sign in with your UVic email address.\n\nenter your UVic email address and click ‘Next’\n\n\n\n\nZoom Workplace sign in\n\n\nYou may already be signed in to UVic systems, in which case, you will be signed in automatically, or you may need to enter your UVic credentials (same password you use to sign into all UVic sites).\nMake sure to check your sign in each time you try to connect to our class meeting.\n\n\n\n\n\n\nImportant\n\n\n\nIf you can’t access the course Zoom right away, please get in touch with IT and they will help you.\n\nPhone: 250-721-7687\n\nToll free: 1-844-721-7687 (North America)"
   },
   {
-    "objectID": "posts/1014-week-4-6/index.html",
-    "href": "posts/1014-week-4-6/index.html",
-    "title": "Week 6",
+    "objectID": "posts/0918-week-2/index.html",
+    "href": "posts/0918-week-2/index.html",
+    "title": "Week 2",
     "section": "",
-    "text": "Good morning everyone! I trust you had a relaxing long weekend! I was able to meet my twin grandkiddos, Oliver and Bazil, over the weekend, so that was something for me to be grateful for. They are both home after a couple months in the NICU, which was a long slog for my daughter and her husband.\nTo recap the last couple of weeks, thank you for your participation on October 2 in our tour of the Pacific School for Innovation and Inquiry (and a S/O to Monta for hosting me on Zoom.) Please make sure that the visit shows up in your blog reflections as we progress through the course.\nAlso, thank you for your attentiveness and questions during Jesse Miller’s presentation last week (Oct 9.) Jesse normally teaches EDCI 338, and if you liked his presentation, that can be a good course if you have room for it in your program. Again, make sure your key take-aways show up in your weekly reflections on your blog."
+    "text": "Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts.\nThis week, we are exploring ideas related to\n\nFIPPA, privacy and consent\nIntellectual property and open educational resources\n\nAs you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the content and the technical skills required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, please don’t hesitate to book a time (or two) at this link. It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated."
   },
   {
-    "objectID": "posts/1014-week-4-6/index.html#week-4-6",
-    "href": "posts/1014-week-4-6/index.html#week-4-6",
-    "title": "Week 6",
+    "objectID": "posts/0918-week-2/index.html#week-2",
+    "href": "posts/0918-week-2/index.html#week-2",
+    "title": "Week 2",
     "section": "",
-    "text": "Good morning everyone! I trust you had a relaxing long weekend! I was able to meet my twin grandkiddos, Oliver and Bazil, over the weekend, so that was something for me to be grateful for. They are both home after a couple months in the NICU, which was a long slog for my daughter and her husband.\nTo recap the last couple of weeks, thank you for your participation on October 2 in our tour of the Pacific School for Innovation and Inquiry (and a S/O to Monta for hosting me on Zoom.) Please make sure that the visit shows up in your blog reflections as we progress through the course.\nAlso, thank you for your attentiveness and questions during Jesse Miller’s presentation last week (Oct 9.) Jesse normally teaches EDCI 338, and if you liked his presentation, that can be a good course if you have room for it in your program. Again, make sure your key take-aways show up in your weekly reflections on your blog."
+    "text": "Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts.\nThis week, we are exploring ideas related to\n\nFIPPA, privacy and consent\nIntellectual property and open educational resources\n\nAs you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the content and the technical skills required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, please don’t hesitate to book a time (or two) at this link. It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated."
   },
   {
-    "objectID": "posts/1014-week-4-6/index.html#things-to-do-this-week-before-our-next-class-meeting",
-    "href": "posts/1014-week-4-6/index.html#things-to-do-this-week-before-our-next-class-meeting",
-    "title": "Week 6",
+    "objectID": "posts/0918-week-2/index.html#topics-for-review",
+    "href": "posts/0918-week-2/index.html#topics-for-review",
+    "title": "Week 2",
+    "section": "Topics for Review",
+    "text": "Topics for Review\nHere are some things we talked about in Week 1.\n\nRSS (This wikipedia link is a bit technical, but provides some good info.)\n\nI believe that RSS is one of the grossly underappreciated technologies for learning, because subscribing to RSS feeds is a perfect way to escape the infinite scroll algorithms of social media sites.\nFeedly is excellent, and I also use inoreader.com, which allows me to subscribe to feeds, group similar feeds together, and then publish a metafeed that other folks can subscribe to.\n\nMost Likely to Succeed - UVic Library login required.\n\nIf you have not yet watched this, please make it a priority.\n\nAlpha School wants AI to teach a Billion kids. Should it?\nliberating structures\n\nspiral journalling\n1-2-4-all\n\nWhat Teachers Make - Taylor Mali\nCooperative Learning"
+  },
+  {
+    "objectID": "posts/0918-week-2/index.html#things-to-do-this-week-before-our-next-class-meeting",
+    "href": "posts/0918-week-2/index.html#things-to-do-this-week-before-our-next-class-meeting",
+    "title": "Week 2",
     "section": "Things to do this week (before our next class meeting)",
-    "text": "Things to do this week (before our next class meeting)\n\nmake sure you are up-to-date with your blog posts, both for Assignment 1 (Free Inquiry) and Assignment 3 (Weekly Reflections).\nBook a time to meet with me as a Learning Pod. The meeting itself whould take place between today and October 23.\n\nWe will talk about:\nany questions or concerns you have related to the class,\nyour plans for Assignment 2, so please come prepared to give me an overview of your topic, why it is of interest, and any initial thoughts or findings.\nPlease use my booking link published on the Social Spaces page of the course website and feel free to book more than one slot in a row if you think you’ll need it.\n\nRead Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048."
-  },
-  {
-    "objectID": "posts/1014-week-4-6/index.html#next-meeting",
-    "href": "posts/1014-week-4-6/index.html#next-meeting",
-    "title": "Week 6",
-    "section": "Next Meeting",
-    "text": "Next Meeting\nFriday, October 16, 8:30 AM at the normal Zoom link.\n\nPlease be ready for working with your learning pods. You aren’t required to, but you may want to consider meeting physically with your pod to join the meeting. We will be creating and sharing media."
-  },
-  {
-    "objectID": "posts/0925-week-3/index.html",
-    "href": "posts/0925-week-3/index.html",
-    "title": "Week 3",
-    "section": "",
-    "text": "Hello everyone, welcome to week 3!\nOn the agenda for today…\nLiberating Structures - Impromptu Networking"
-  },
-  {
-    "objectID": "posts/0925-week-3/index.html#fippa-privacy-and-security",
-    "href": "posts/0925-week-3/index.html#fippa-privacy-and-security",
-    "title": "Week 3",
-    "section": "FIPPA, Privacy, and Security",
-    "text": "FIPPA, Privacy, and Security\n\nData is the new oil. ~Someone on the Internet"
-  },
-  {
-    "objectID": "posts/0925-week-3/index.html#sites-to-visit",
-    "href": "posts/0925-week-3/index.html#sites-to-visit",
-    "title": "Week 3",
-    "section": "Sites to visit",
-    "text": "Sites to visit\n\nclickclickclick.click.\nSince You Arrived.\nPrivacy.net.\nGoogle Maps (on mobile) -&gt; Timeline"
-  },
-  {
-    "objectID": "posts/0925-week-3/index.html#current-events",
-    "href": "posts/0925-week-3/index.html#current-events",
-    "title": "Week 3",
-    "section": "Current Events",
-    "text": "Current Events\n\n\n\n\n\n\nImportant\n\n\n\nI’m providing the following links for conversation and analysis. You are NOT being asked to take any action or position for or against Bill C-22.\n\n\n\nMeta Muse\nBill C-22 in Canada.\nOpposition to Bill C-22\n\n\nRecent Breaches\n\nUS Cybersecurity and Infrastructure Security Agency\n\nCanvas LMS\n\nCyberSecureDad\n\nCBC News\n\nCybersecurity Canada\n\nCanada Life"
-  },
-  {
-    "objectID": "posts/0925-week-3/index.html#disconnecting",
-    "href": "posts/0925-week-3/index.html#disconnecting",
-    "title": "Week 3",
-    "section": "Disconnecting",
-    "text": "Disconnecting\n\nParis Marx on Disconnecting from US Tech.\nStop Google from Tracking You."
-  },
-  {
-    "objectID": "posts/0923-week-2/index.html",
-    "href": "posts/0923-week-2/index.html",
-    "title": "Week 2 Update",
-    "section": "",
-    "text": "Some of you have reached out to ask about the planning for the Inquiry Project. Here’s a quick video explanation."
-  },
-  {
-    "objectID": "posts/0923-week-2/index.html#week-2-update",
-    "href": "posts/0923-week-2/index.html#week-2-update",
-    "title": "Week 2 Update",
-    "section": "",
-    "text": "Some of you have reached out to ask about the planning for the Inquiry Project. Here’s a quick video explanation."
-  },
-  {
-    "objectID": "posts/critical-incident-q/index.html",
-    "href": "posts/critical-incident-q/index.html",
-    "title": "Classroom Critical Incident Questionnaire",
-    "section": "",
-    "text": "The Classroom Critical Incident Questionnaire (Brookfield, n.d.) is a metacognitive tool you can use to help you reflect on your own experience as a learner in a classroom (analog or digtal). Being aware of your own experience as a learner is a powerful method of coming to know how you want to show up as a teacher.\nThe questionnaire consists of a few questions that you can answer in just a few minutes."
-  },
-  {
-    "objectID": "posts/critical-incident-q/index.html#the-classroom-critical-incident-questionnaire",
-    "href": "posts/critical-incident-q/index.html#the-classroom-critical-incident-questionnaire",
-    "title": "Classroom Critical Incident Questionnaire",
-    "section": "The Classroom Critical Incident Questionnaire",
-    "text": "The Classroom Critical Incident Questionnaire\nPlease take about five minutes to respond to the questions below about this week’s class. If nothing comes to mind for any of the questions just leave the space blank. At the next class we will share the group’s responses with all of you. Thanks for taking the time to do this. What you write will help us make the class more responsive to your concerns.\n\nAt what moment in class this week did you feel most engaged with what was happening?\n\nAt what moment in class this week were you most distanced from what was happening?\n\nWhat action that anyone (teacher or student) took this week did you find most affirming or helpful?\n\nWhat action that anyone took this week did you find most puzzling or confusing?\n\nWhat about the class this week surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).\n\nRecord your responses on your blog, but please do not mention specific people by name.\nUse the category #cciq."
+    "text": "Things to do this week (before our next class meeting)\n\nPublish your first post towards completing Assignment 3. This post should be published on your blog as a new post, and should use the categories as requested on the assignment page.\n\nYour post should cover items in the Topics for Review section on this post.\n\n\nShare a draft of your Learning Plan for the Inquiry Project with me and your learning pod. Consider the following tools:\n\nTrello\n\nMS Planner (UVic hosted)\n\nothers as you find them\n\n\nRead Privacy and Safety on the course site, including the links.\n\nRead Freedom of Information and Protection of Privacy (FIPPA)\n\nRead All the posts categorized Copyright on the course site.\n\nSuggestion - lean on your learning pod to share the load on these posts. Each of you can pick a post or two and share your findings with your learning pod.\n\n\nThat’s a bunch of work for you! Please reach out if you are having challenges!"
   },
   {
     "objectID": "posts/1019-week-7/index.html",
@@ -196,32 +196,102 @@
     "text": "Next Meeting\nFriday, October 23, 8:30 AM at the normal Zoom link.\nAs always, I’m cheering you on! Feel free to reach out if you have any questions or concerns."
   },
   {
-    "objectID": "posts/0918-week-2/index.html",
-    "href": "posts/0918-week-2/index.html",
-    "title": "Week 2",
+    "objectID": "posts/critical-incident-q/index.html",
+    "href": "posts/critical-incident-q/index.html",
+    "title": "Classroom Critical Incident Questionnaire",
     "section": "",
-    "text": "Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts.\nThis week, we are exploring ideas related to\n\nFIPPA, privacy and consent\nIntellectual property and open educational resources\n\nAs you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the content and the technical skills required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, please don’t hesitate to book a time (or two) at this link. It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated."
+    "text": "The Classroom Critical Incident Questionnaire (Brookfield, n.d.) is a metacognitive tool you can use to help you reflect on your own experience as a learner in a classroom (analog or digtal). Being aware of your own experience as a learner is a powerful method of coming to know how you want to show up as a teacher.\nThe questionnaire consists of a few questions that you can answer in just a few minutes."
   },
   {
-    "objectID": "posts/0918-week-2/index.html#week-2",
-    "href": "posts/0918-week-2/index.html#week-2",
-    "title": "Week 2",
+    "objectID": "posts/critical-incident-q/index.html#the-classroom-critical-incident-questionnaire",
+    "href": "posts/critical-incident-q/index.html#the-classroom-critical-incident-questionnaire",
+    "title": "Classroom Critical Incident Questionnaire",
+    "section": "The Classroom Critical Incident Questionnaire",
+    "text": "The Classroom Critical Incident Questionnaire\nPlease take about five minutes to respond to the questions below about this week’s class. If nothing comes to mind for any of the questions just leave the space blank. At the next class we will share the group’s responses with all of you. Thanks for taking the time to do this. What you write will help us make the class more responsive to your concerns.\n\nAt what moment in class this week did you feel most engaged with what was happening?\n\nAt what moment in class this week were you most distanced from what was happening?\n\nWhat action that anyone (teacher or student) took this week did you find most affirming or helpful?\n\nWhat action that anyone took this week did you find most puzzling or confusing?\n\nWhat about the class this week surprised you the most? (This could be about your own reactions to what went on, something that someone did, or anything else that occurs).\n\nRecord your responses on your blog, but please do not mention specific people by name.\nUse the category #cciq."
+  },
+  {
+    "objectID": "posts/0923-week-2/index.html",
+    "href": "posts/0923-week-2/index.html",
+    "title": "Week 2 Update",
     "section": "",
-    "text": "Good day to you all! I trust your weekend has gotten off to a relaxing start! Thank you once again for your participation and engagement in our meeting time yesterday. I really enjoyed hearing your thoughts.\nThis week, we are exploring ideas related to\n\nFIPPA, privacy and consent\nIntellectual property and open educational resources\n\nAs you recall, we meet together for 2 of the 3 scheduled weekly hours for this course. You are obligated to ensure that the third hour is spent meeting with your learning pod to discuss the course, provide support to each other, share and collaborate on both the content and the technical skills required for the course, and to work cooperatively on assignments. If you need to meet with me as an individual or a learning pod, please don’t hesitate to book a time (or two) at this link. It is literally my job to help you succeed and thrive in the course, so please reach out before you get frustrated."
+    "text": "Some of you have reached out to ask about the planning for the Inquiry Project. Here’s a quick video explanation."
   },
   {
-    "objectID": "posts/0918-week-2/index.html#topics-for-review",
-    "href": "posts/0918-week-2/index.html#topics-for-review",
-    "title": "Week 2",
-    "section": "Topics for Review",
-    "text": "Topics for Review\nHere are some things we talked about in Week 1.\n\nRSS (This wikipedia link is a bit technical, but provides some good info.)\n\nI believe that RSS is one of the grossly underappreciated technologies for learning, because subscribing to RSS feeds is a perfect way to escape the infinite scroll algorithms of social media sites.\nFeedly is excellent, and I also use inoreader.com, which allows me to subscribe to feeds, group similar feeds together, and then publish a metafeed that other folks can subscribe to.\n\nMost Likely to Succeed - UVic Library login required.\n\nIf you have not yet watched this, please make it a priority.\n\nAlpha School wants AI to teach a Billion kids. Should it?\nliberating structures\n\nspiral journalling\n1-2-4-all\n\nWhat Teachers Make - Taylor Mali\nCooperative Learning"
+    "objectID": "posts/0923-week-2/index.html#week-2-update",
+    "href": "posts/0923-week-2/index.html#week-2-update",
+    "title": "Week 2 Update",
+    "section": "",
+    "text": "Some of you have reached out to ask about the planning for the Inquiry Project. Here’s a quick video explanation."
   },
   {
-    "objectID": "posts/0918-week-2/index.html#things-to-do-this-week-before-our-next-class-meeting",
-    "href": "posts/0918-week-2/index.html#things-to-do-this-week-before-our-next-class-meeting",
-    "title": "Week 2",
+    "objectID": "posts/0925-week-3/index.html",
+    "href": "posts/0925-week-3/index.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "Hello everyone, welcome to week 3!\nOn the agenda for today…\nLiberating Structures - Impromptu Networking"
+  },
+  {
+    "objectID": "posts/0925-week-3/index.html#fippa-privacy-and-security",
+    "href": "posts/0925-week-3/index.html#fippa-privacy-and-security",
+    "title": "Week 3",
+    "section": "FIPPA, Privacy, and Security",
+    "text": "FIPPA, Privacy, and Security\n\nData is the new oil. ~Someone on the Internet"
+  },
+  {
+    "objectID": "posts/0925-week-3/index.html#sites-to-visit",
+    "href": "posts/0925-week-3/index.html#sites-to-visit",
+    "title": "Week 3",
+    "section": "Sites to visit",
+    "text": "Sites to visit\n\nclickclickclick.click.\nSince You Arrived.\nPrivacy.net.\nGoogle Maps (on mobile) -&gt; Timeline"
+  },
+  {
+    "objectID": "posts/0925-week-3/index.html#current-events",
+    "href": "posts/0925-week-3/index.html#current-events",
+    "title": "Week 3",
+    "section": "Current Events",
+    "text": "Current Events\n\n\n\n\n\n\nImportant\n\n\n\nI’m providing the following links for conversation and analysis. You are NOT being asked to take any action or position for or against Bill C-22.\n\n\n\nMeta Muse\nBill C-22 in Canada.\nOpposition to Bill C-22\n\n\nRecent Breaches\n\nUS Cybersecurity and Infrastructure Security Agency\n\nCanvas LMS\n\nCyberSecureDad\n\nCBC News\n\nCybersecurity Canada\n\nCanada Life"
+  },
+  {
+    "objectID": "posts/0925-week-3/index.html#disconnecting",
+    "href": "posts/0925-week-3/index.html#disconnecting",
+    "title": "Week 3",
+    "section": "Disconnecting",
+    "text": "Disconnecting\n\nParis Marx on Disconnecting from US Tech.\nStop Google from Tracking You."
+  },
+  {
+    "objectID": "posts/1014-week-4-6/index.html",
+    "href": "posts/1014-week-4-6/index.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Good morning everyone! I trust you had a relaxing long weekend! I was able to meet my twin grandkiddos, Oliver and Bazil, over the weekend, so that was something for me to be grateful for. They are both home after a couple months in the NICU, which was a long slog for my daughter and her husband.\nTo recap the last couple of weeks, thank you for your participation on October 2 in our tour of the Pacific School for Innovation and Inquiry (and a S/O to Monta for hosting me on Zoom.) Please make sure that the visit shows up in your blog reflections as we progress through the course.\nAlso, thank you for your attentiveness and questions during Jesse Miller’s presentation last week (Oct 9.) Jesse normally teaches EDCI 338, and if you liked his presentation, that can be a good course if you have room for it in your program. Again, make sure your key take-aways show up in your weekly reflections on your blog."
+  },
+  {
+    "objectID": "posts/1014-week-4-6/index.html#week-4-6",
+    "href": "posts/1014-week-4-6/index.html#week-4-6",
+    "title": "Week 6",
+    "section": "",
+    "text": "Good morning everyone! I trust you had a relaxing long weekend! I was able to meet my twin grandkiddos, Oliver and Bazil, over the weekend, so that was something for me to be grateful for. They are both home after a couple months in the NICU, which was a long slog for my daughter and her husband.\nTo recap the last couple of weeks, thank you for your participation on October 2 in our tour of the Pacific School for Innovation and Inquiry (and a S/O to Monta for hosting me on Zoom.) Please make sure that the visit shows up in your blog reflections as we progress through the course.\nAlso, thank you for your attentiveness and questions during Jesse Miller’s presentation last week (Oct 9.) Jesse normally teaches EDCI 338, and if you liked his presentation, that can be a good course if you have room for it in your program. Again, make sure your key take-aways show up in your weekly reflections on your blog."
+  },
+  {
+    "objectID": "posts/1014-week-4-6/index.html#things-to-do-this-week-before-our-next-class-meeting",
+    "href": "posts/1014-week-4-6/index.html#things-to-do-this-week-before-our-next-class-meeting",
+    "title": "Week 6",
     "section": "Things to do this week (before our next class meeting)",
-    "text": "Things to do this week (before our next class meeting)\n\nPublish your first post towards completing Assignment 3. This post should be published on your blog as a new post, and should use the categories as requested on the assignment page.\n\nYour post should cover items in the Topics for Review section on this post.\n\n\nShare a draft of your Learning Plan for the Inquiry Project with me and your learning pod. Consider the following tools:\n\nTrello\n\nMS Planner (UVic hosted)\n\nothers as you find them\n\n\nRead Privacy and Safety on the course site, including the links.\n\nRead Freedom of Information and Protection of Privacy (FIPPA)\n\nRead All the posts categorized Copyright on the course site.\n\nSuggestion - lean on your learning pod to share the load on these posts. Each of you can pick a post or two and share your findings with your learning pod.\n\n\nThat’s a bunch of work for you! Please reach out if you are having challenges!"
+    "text": "Things to do this week (before our next class meeting)\n\nmake sure you are up-to-date with your blog posts, both for Assignment 1 (Free Inquiry) and Assignment 3 (Weekly Reflections).\nBook a time to meet with me as a Learning Pod. The meeting itself whould take place between today and October 23.\n\nWe will talk about:\nany questions or concerns you have related to the class,\nyour plans for Assignment 2, so please come prepared to give me an overview of your topic, why it is of interest, and any initial thoughts or findings.\nPlease use my booking link published on the Social Spaces page of the course website and feel free to book more than one slot in a row if you think you’ll need it.\n\nRead Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048."
+  },
+  {
+    "objectID": "posts/1014-week-4-6/index.html#next-meeting",
+    "href": "posts/1014-week-4-6/index.html#next-meeting",
+    "title": "Week 6",
+    "section": "Next Meeting",
+    "text": "Next Meeting\nFriday, October 16, 8:30 AM at the normal Zoom link.\n\nPlease be ready for working with your learning pods. You aren’t required to, but you may want to consider meeting physically with your pod to join the meeting. We will be creating and sharing media."
+  },
+  {
+    "objectID": "posts/1023-week-7-agenda/index.html",
+    "href": "posts/1023-week-7-agenda/index.html",
+    "title": "Week 7 Agenda",
+    "section": "",
+    "text": "meetings\nreadings\nblog posts\n\nA newspaper is better than a magazine A seashore is a better place than the street At first it is better to run than to walk You may have to try several times It takes some skill but it’s easy to learn Even young children can enjoy it Once successful, complications are minimal Birds seldom get too close Rain, however, soaks in very fast Too many people doing the same thing can also cause problems One needs lots of room If there are no complications, it can be very peaceful A rock will serve as an anchor If things break loose from it, however, you will not get a second chance\nCircleIn - image reflection 1-all\nTRIZ\nSlides"
   },
   {
     "objectID": "posts/about-colin/index.html",
@@ -231,10 +301,38 @@
     "text": "Hi everyone, I’m excited to be teaching EDCI 336 and I’m looking forward to getting to know each of you!\nI am a PhD Candidate in Educational Studies at UVic researching technology-integrated assessment in higher education. My work explores the intersection of the purposes of assessment, duty of care, technology acceptance, and assessment design and theory. I am currently analyzing data for the third of three papers comprising my dissertation.\nI taught educational technology in K-12 in BC, Alberta, and Japan between 2000 and 2010 and led technology-integrated teams in instructional design in higher ed and have taught courses at the undergraduate and graduate level in technology-integrated learning as well as transformational blended learning. I was most recently the Director of Technology Integrated Learning and Assessment at a small university in British Columbia where I supported faculty and learners in using technology to make sense of the world around them.\nI live in West Kelowna, on the traditional, ancestral, and unceded territory of the Syilx people, and I spend a bunch of my spare time on my bicycle, walking my dog, or doing cool stuff with my wife. We have three kids: one is a police officer in Abbotsford, where he lives with his wife and 2 boys, one is a nurse in Surrey living in Maple Ridge with her husband and twin boys, and the third is just starting his first year of university, studying Human Kinetics.\nContact and further info at cmad.land."
   },
   {
+    "objectID": "posts/1030-week-8/wingding.html#section",
+    "href": "posts/1030-week-8/wingding.html#section",
+    "title": "Sample Quiz",
+    "section": "",
+    "text": "Consider the following terms and their definitions.\nUse your arrow keys to navigate."
+  },
+  {
+    "objectID": "posts/1030-week-8/wingding.html#section-1",
+    "href": "posts/1030-week-8/wingding.html#section-1",
+    "title": "Sample Quiz",
+    "section": "",
+    "text": "Term - validity\n\nDefinition: the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world..\n\nTerm - reliability\n\nDefinition: the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions.\n\nTerm - bias\n\nDefinition: a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.."
+  },
+  {
+    "objectID": "posts/1030-week-8/wingding.html#section-2",
+    "href": "posts/1030-week-8/wingding.html#section-2",
+    "title": "Sample Quiz",
+    "section": "",
+    "text": "Choose the correct definition from the list.\n\nTerm: bias\n\n\nthe overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions\n\n\n\n\na systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.\n\n\n\n\nthe main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.\n\n\n\nFeel free to flip back to the previous slide."
+  },
+  {
+    "objectID": "posts/1030-week-8/wingding.html#section-3",
+    "href": "posts/1030-week-8/wingding.html#section-3",
+    "title": "Sample Quiz",
+    "section": "",
+    "text": "Here is the quiz again…\nChoose the correct definition from the list.\n\nTerm: bias\n\n\nthe overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions\n\n\n\n\na systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.\n\n\n\n\nthe main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Technology and Innovation in Education",
     "section": "",
-    "text": "Week 7\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2 Update\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n20260911 Week 1\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Critical Incident Questionnaire\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nZoom\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Colin\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Week 8 - Technology-Integrated Assessment\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 30, 2026\n\n\nColin Madland\n\n\n\n\n\n\n\n\n\n\n\n\nSample Quiz\n\n\n\n\n\n\n\n\nOct 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7 Agenda\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nOct 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2 Update\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n20260911 Week 1\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 12, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Critical Incident Questionnaire\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nZoom\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Colin\n\n\n\nedci336\n\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\n\n\n\nNo matching items"
   }
 ]
