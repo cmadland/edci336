@@ -20,6 +20,7 @@ execute:
 
 {{< video https://youtu.be/I3ownFNREVQ?si=0l4KzWPfpUKdAdXa >}}
 
+https://youtu.be/I3ownFNREVQ?si=0l4KzWPfpUKdAdXa
 
 1. 1-4-All to generate topics
 2. VOTE!! (poll in Zoom)
