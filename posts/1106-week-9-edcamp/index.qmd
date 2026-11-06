@@ -1,0 +1,34 @@
+---
+title: "Week 9 - EdCamp"
+author: "Colin Madland"
+date: "2026-11-05"
+date-modified: last-modified
+categories: [edci336]
+image: "ellie-sunrise.jpeg"
+bibliography: ../../refs.bib
+execute: 
+  freeze: false
+# draft: true
+# draft-mode: unlinked
+---
+ 
+[Post Link](https://cmadland.github.io/edci336/posts/1106-week-9-edcamp)
+
+## Overview {.unnumbered}
+
+### EdCamp!
+
+{{< video https://youtu.be/I3ownFNREVQ?si=0l4KzWPfpUKdAdXa >}}
+
+
+1. 1-4-All to generate topics
+2. VOTE!! (poll in Zoom)
+3. If your topic is selected as top 4, you are sponsor of that topic/breakout room.
+4. [Google Slides for room notes](https://docs.google.com/presentation/d/1SCupUxrGrpnTi8LEPAs8fSrXkC7QyX5qMaiASqn_IlA/edit?usp=sharing)
+5. Join the topic/breakout room of your choice.
+6. Sponsor of the session shares a brief overview.
+7. Discuss, take notes, share, connect...
+8. Feel free to wander between rooms.
+9. Reconvene to share
+
+[Planning resources](https://digitalpromise.org/wp-content/uploads/2021/01/Edcamp-OrgHandbook_January2021.pdf)
