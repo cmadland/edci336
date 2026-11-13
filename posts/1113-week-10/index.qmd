@@ -1,0 +1,22 @@
+---
+title: "Week 10 - AI"
+author: "Colin Madland"
+date: "2026-11-12"
+date-modified: last-modified
+categories: [edci336]
+image: "happy-ellie.jpeg"
+bibliography: ../../refs.bib
+execute: 
+  freeze: false
+# draft: true
+# draft-mode: unlinked
+---
+ 
+# Week 10 - AI
+
+- Cornell Notes
+- What is AI? 
+- [Considerations for Using AI Tools in K-12 Schools](https://www2.gov.bc.ca/assets/gov/education/administration/kindergarten-to-grade-12/ai-in-education/considerations-for-using-ai-tools-in-k-12-schools.pdf)
+- [BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf)
+- [Against the Uncritical Adoption of ‘AI’ Technologies in Academia](https://static1.squarespace.com/static/5cf15af7a259990001706378/t/6a0301dc32a58d2314b067d5/1778581980273/Guestetal+2026.pdf)
+- [The AI Con sample](https://cdn.penguin.co.uk/dam-assets/books/9781847928610/9781847928610-sample.pdf)

@@ -10,7 +10,37 @@
 <atom:link href="https://cmadland.github.io/edci336/index.xml" rel="self" type="application/rss+xml"/>
 <description>Instructor Updates for EDCI336</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Thu, 05 Nov 2026 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 10 - AI</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci336/posts/1113-week-10/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="week-10---ai" class="level1">
+
+<ul>
+<li>Cornell Notes</li>
+<li>What is AI?</li>
+<li><a href="https://www2.gov.bc.ca/assets/gov/education/administration/kindergarten-to-grade-12/ai-in-education/considerations-for-using-ai-tools-in-k-12-schools.pdf">Considerations for Using AI Tools in K-12 Schools</a></li>
+<li><a href="https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf">BC Digital Literacy Framework</a></li>
+<li><a href="https://static1.squarespace.com/static/5cf15af7a259990001706378/t/6a0301dc32a58d2314b067d5/1778581980273/Guestetal+2026.pdf">Against the Uncritical Adoption of ‘AI’ Technologies in Academia</a></li>
+<li><a href="https://cdn.penguin.co.uk/dam-assets/books/9781847928610/9781847928610-sample.pdf">The AI Con sample</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>edci336</category>
+  <guid>https://cmadland.github.io/edci336/posts/1113-week-10/</guid>
+  <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci336/posts/1113-week-10/happy-ellie.jpeg" medium="image" type="image/jpeg" height="108" width="144"/>
+</item>
 <item>
   <title>Week 9 - EdCamp</title>
   <dc:creator>Colin Madland</dc:creator>
