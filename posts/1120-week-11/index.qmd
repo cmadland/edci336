@@ -16,7 +16,7 @@ execute:
 
 This week we have our guests from [BCEdAccess](https://bcedaccess.com/) joining us. We will join the other cohort for this session. I will send the Zoom link you later this week. During this class, please make sure to have your cameras on and present yourself professionally.   
 
-Click here for an article that BCEdAccess has shared as recommended reading in advance of their talk. Please note that the terminology in the article is outdated since it was written in 2005, but it still is an excellent read.  
+[Click here for an article that BCEdAccess has shared as recommended reading in advance of their talk.](https://raw.githubusercontent.com/cmadland/edci336/08914f14ac40052598b6362b5cbdbb3b2ca5de6d/posts/1120-week-11/BCEdAccess-Least-Dangerous-Assumption.pdf) Please note that the terminology in the article is outdated since it was written in 2005, but it still is an excellent read.  
 
 Here is a link to a great resource to modernize our language and treat learners with disability respectfully: [A way with words and images: guide for communicating with and about persons with disabilities](https://www.canada.ca/en/employment-social-development/programs/disability/arc/words-images.html)
 
